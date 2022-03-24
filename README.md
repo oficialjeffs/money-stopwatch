@@ -3,13 +3,13 @@
 
 # Sobre:
   <p>Este cronômetro tem por objetivo simular a realidade de uma empresa onde após ter um <b>"BUG"</b>.
-  <br> 
+  <br><br>
   O Bug irá trazer <u>perda de capital imediato</u> perante um problema não resolvido.(<i>E quanto mais tempo um problema passa sem ser resolvido... mas a empresa perde...</i>)
-  <br>
+  <br><br>
   Dizem que nosso tempo é dinheiro, e como já temos a <b>noção de tempo</b> utilizando <i>"Cronômetro Time"</i> para medir <u>o menor tempo de resolução de um dev a um problema</u>, decidi então criar um <i>"Cronômentro Real"</i> para assim, mudar a experiência de <b>"tempo"</b> para <b>"dinheiro"</b>.
-  <br>
+  <br><br>
   Acredito que o ser humano Neurolinguísticamente falando, assimila com mais <b>"valor"</b> a perca do dinheiro do que a perca do seu próprio tempo. Então neste caso, eu quis trazer essa idéia para justamente causar esse impacto na resolução do problema em meio a sua situação de "Pressão" do Desenvolvedor.</p>
-
+  <br>
   Se gostou do projeto deixa estrelinha &#10031;
 
 # Layot do Projeto:
