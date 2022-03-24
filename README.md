@@ -17,7 +17,7 @@
 # Layot do Projeto:
 
   <div>
-    <img alt="Jeff-Cronometro-Home" src="https://media.discordapp.net/attachments/931374383203758090/956558748221046784/unknown.png?width=860&height=449" style= "object-fit:    contain;       width: 700px; height: auto; " > 
+    <img alt="Jeff-Cronometro-Home" src="https://media.discordapp.net/attachments/705264408103878808/956584097365495879/unknown.png?width=882&height=468" style= "object-fit:    contain;       width: 700px; height: auto; " > 
   </div>
 
 
