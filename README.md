@@ -1,6 +1,6 @@
 # Cronometro
  Simulação de um Cronometro de Prejuízo de uma empresa após sofrer um bug e começar a perder seus clientes.
-<hr>
+
 
 # Sobre:
   <p>Este cronômetro tem por objetivo simular a realidade de uma empresa onde após ter um <b>"BUG"</b>.
@@ -12,14 +12,14 @@
   Acredito que o ser humano Neurolinguísticamente falando, assimila com mais <b>"valor"</b> a perca do dinheiro do que a perca do seu próprio tempo. Então neste caso, eu quis trazer essa idéia para justamente causar esse impacto na resolução do problema em meio a sua situação de "Pressão" do Desenvolvedor.</p>
   <br>
   Se gostou do projeto deixa estrelinha &#10031;
-<hr>
+
 
 # Layot do Projeto:
 
   <div>
     <img alt="Jeff-Cronometro-Home" src="https://media.discordapp.net/attachments/931374383203758090/956558748221046784/unknown.png?width=860&height=449" style= "object-fit:    contain;       width: 450px; height: auto; " > 
   </div>
-<hr>
+
 
 # Tecnologias Utilizadas:
 
@@ -32,7 +32,7 @@
    	<hr>
   </ul>
 
-<hr>
+
 
 # Autor:
   <strong>Jefferson Santos</strong> <br>
