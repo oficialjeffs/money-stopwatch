@@ -54,3 +54,21 @@ h1{
     font-family: sans-serif;
   
 }
+
+#copyright{
+    
+    font-family:calibri;
+    background-color:rgb(29, 20, 20);
+    color: #fff;
+    padding: 0.5rem;
+    margin-top: 6.6rem;
+    text-align: center;
+    border: solid 2px rgb(29, 20, 20);;
+    font-size: 20px;
+
+}
+#copyright a{
+    text-decoration: none;
+    color: white;
+
+}
