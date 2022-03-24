@@ -26,7 +26,7 @@
   <ul>
     <h4> Front End</h4>
     <hr>
-    <li>HTML - Extruturação</li>
+    <li>HTML - Estruturação</li>
     <li>CSS- Estilização</li>
     <li>Java Script - Animação e Processo</li>
    	<hr>
